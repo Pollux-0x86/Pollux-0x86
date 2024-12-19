@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pollux-0x86
-- 🌱 I’m currently learning Rust C/CPP
-- 
+- 🌱 I’m currently learning Rust & C/CPP
 ## Language
 ![Nim](https://img.shields.io/badge/Nim-007ACC?style=flat-square&logo=Nim&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=C&logoColor=ffffff)
